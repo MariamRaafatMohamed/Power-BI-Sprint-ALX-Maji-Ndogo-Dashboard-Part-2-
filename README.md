@@ -37,10 +37,40 @@ Multi-sheet Excel file containing:
 - DAX Measures & calculated columns
 - Interactive visuals (Map, Pie, Line, Clustered Bar)
 
-##  Included Files
+---
 
-- Report (.pbix)
-- Dataset (.xlsx)
-- GeoJSON map
-- Sprint brief
-- Weekly test
+##  Files in Repository
+-  [Power BI Report (.pbix)](part1(maji_ndogo).pbix)
+-  [Dataset (.csv)](Md_summary.csv)
+-  [GeoJSON Map](MD_Provinces.json)
+-  [ALX Project Brief](Part_1.pdf)
+-  [Sprint Weekly Test](Answer-Maji-Ndogo-part-1-MCQ.pdf)
+
+---
+
+##  External Link
+
+-LinkedIn project write-up:[www.linkedin.com/feed/update/urn:li:activity:7354059199359713280/]
+
+---
+
+##  Tools
+
+- Power BI Desktop  
+- Power Query  
+- GeoJSON Map  
+- CSV file 
+
+---
+
+## Report Screenshots
+
+![National Level](National_Level.jpg)
+
+![Queue Composition](Queue_Composition.png)
+
+![Well Pollution](Well_Pollution.png)
+
+![Crime Related Data](Crime_Related.png)
+
+
