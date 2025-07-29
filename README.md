@@ -65,12 +65,12 @@ Multi-sheet Excel file containing:
 
 ## Report Screenshots
 
-![National Level](National_Level.jpg)
+![National Level](National_Level.jpeg)
 
-![Queue Composition](Queue_Composition.png)
+![Queue Composition](Queue_Composition.jpeg)
 
-![Well Pollution](Well_Pollution.png)
+![Well Pollution](Well_Pollution.jpeg)
 
-![Crime Related Data](Crime_Related.png)
+![Crime Related Data](Crime_Related.jpeg)
 
 
