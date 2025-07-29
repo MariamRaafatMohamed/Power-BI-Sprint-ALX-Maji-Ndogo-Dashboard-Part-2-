@@ -41,10 +41,10 @@ Multi-sheet Excel file containing:
 
 ##  Files in Repository
 -  [Power BI Report (.pbix)](part1(maji_ndogo).pbix)
--  [Dataset (.csv)](Md_summary.csv)
+-  [Dataset (.csv)](Md_water_services_data.xlsx)
 -  [GeoJSON Map](MD_Provinces.json)
--  [ALX Project Brief](Part_1.pdf)
--  [Sprint Weekly Test](Answer-Maji-Ndogo-part-1-MCQ.pdf)
+-  [ALX Project Brief](Part_2.pdf)
+-  [Sprint Weekly Test](Answer-Maji-Ndogo-part-2-MCQ.pdf)
 
 ---
 
